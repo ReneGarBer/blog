@@ -43,6 +43,12 @@ Para ver la aplicación que fue creada accedemos a la carpeta public
 
 ![localhost-public](images/localhost-public.PNG)
 
+Podemos desde el archivo 'resources\views\welcome.blade.php' podemos modificar esta ventana
+
+**Cambio de título**
+
+![name](images/name.PNG)
+
 ## Creación y manipulación de rutas
 
 Desde la carpeta routes dentro de nuestra aplicación, podemos encontrar el archivo web.php, en este archivo definiremos las rutas a las que el usuario puede acceder
